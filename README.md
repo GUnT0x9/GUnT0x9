@@ -9,9 +9,7 @@ Reverse Engineering Researcher
 Binary Analysis • Malware Research • CTF Player
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Dreamhack-CTF-red?style=for-the-badge">
-</p>
+<h2>Dreamhack ID : GUnT_0x9</h2>
 
 ---
 
@@ -40,14 +38,6 @@ Security student focusing on **Reverse Engineering**.
 
 <img src="https://img.shields.io/badge/IDA_PRO-1f425f?style=for-the-badge">
 <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge">
-
----
-
-## Dreamhack Activity
-
-This section updates automatically using GitHub Actions.
-
-<!-- DREAMHACK_STATS -->
 
 ---
 
