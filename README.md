@@ -1,65 +1,79 @@
 <h1 align="center">GUnT_0x9</h1>
 
 <p align="center">
-Security Researcher in Training
+Reverse Engineering Researcher
+</p>
+
+<p align="center">
+Binary Analysis • Malware Research • CTF Player
+</p>
+
+<p align="center">
+<a href="https://dreamhack.io/mypage">
+<img src="https://img.shields.io/badge/Dreamhack-Wargame-red?style=for-the-badge">
+</a>
 </p>
 
 ---
 
 ## About
 
-Security student focused on low level systems and binary analysis.
+Security student focusing on **Reverse Engineering**.
 
 - Reverse Engineering
 - Malware Analysis
 - Binary Internals
-- CTF Player
+- CTF Challenges
 
 ---
 
-## Research Interests
+## Research Focus
 
 Reverse Engineering  
+Binary Analysis  
 Malware Analysis  
-Binary Exploitation  
-Program Analysis  
 
 ---
 
-## Technical Skills
+## Languages
 
-Languages
+<p>
 
-C  
-Python  
-Assembly  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-Tools
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 
-IDA  
-Ghidra  
-x64dbg  
-radare2  
+<img src="https://img.shields.io/badge/Assembly-444444?style=for-the-badge">
 
-Platforms
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-Linux  
-Windows  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 ---
 
-## Security Activities
+## Reverse Engineering Tools
 
-CTF challenges  
-Binary analysis  
-Security research  
+<p>
+
+<img src="https://img.shields.io/badge/IDA_PRO-1f425f?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge">
+
+</p>
 
 ---
 
 ## CTF Platforms
 
-Dreamhack  
-https://dreamhack.io/mypage
+<p>
+
+<a href="https://dreamhack.io/mypage">
+<img src="https://img.shields.io/badge/Dreamhack-Wargame-red?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
@@ -69,6 +83,8 @@ https://dreamhack.io/mypage
 
 <img src="https://github-readme-stats.vercel.app/api?username=GUnT0x9&show_icons=true&theme=tokyonight">
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUnT0x9&layout=compact&theme=tokyonight">
 
 </p>
@@ -77,6 +93,9 @@ https://dreamhack.io/mypage
 
 ## Current Focus
 
-Reverse engineering  
-Malware behavior analysis  
-CTF challenges
+Reverse Engineering  
+Malware Analysis  
+Binary Internals  
+CTF Challenges  
+
+---
