@@ -1,12 +1,9 @@
 
 <h1 align="center">GUnT_0x9</h1>
-
 <h2 align="center">Dreamhack ID : GUnT_0x9</h2>
-
 <h3 align="center">
 프로그램 엔지니어, 풀스택 개발자, 화이트 해커 지망 
 </h3>
-
 <p align="center">
 Binary Analysis • Malware Research • CTF Player
 </p>
