@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">GUnT_0x9</h1>
 
-<!--
-**GUnT0x9/GUnT0x9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Security Researcher in Training
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Security student focused on low level systems and binary analysis.
+
+- Reverse Engineering
+- Malware Analysis
+- Binary Internals
+- CTF Player
+
+---
+
+## Research Interests
+
+Reverse Engineering  
+Malware Analysis  
+Binary Exploitation  
+Program Analysis  
+
+---
+
+## Technical Skills
+
+Languages
+
+C  
+Python  
+Assembly  
+
+Tools
+
+IDA  
+Ghidra  
+x64dbg  
+radare2  
+
+Platforms
+
+Linux  
+Windows  
+
+---
+
+## Security Activities
+
+CTF challenges  
+Binary analysis  
+Security research  
+
+---
+
+## CTF Platforms
+
+Dreamhack  
+https://dreamhack.io/mypage
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GUnT0x9&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUnT0x9&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+## Current Focus
+
+Reverse engineering  
+Malware behavior analysis  
+CTF challenges
