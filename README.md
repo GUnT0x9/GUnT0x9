@@ -24,17 +24,21 @@ Security student focusing on **Reverse Engineering**.
 
 ## Programming Languages
 
-Python      ████████████████████ 90%  
-C           █████████████████ 80%  
-Java        ███████████████ 70%  
-Assembly    ████████████ 60%  
-JavaScript  ██████████ 50%  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> ████████████████████ 90%  
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> █████████████████ 90% 
+
+<img src="https://img.shields.io/badge/Assembly-444444?style=for-the-badge"> ███████████████ 60% 
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">████████████ 50%  
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> ██████████ 45%  
 
 ## Development
 
-HTML        ████████████████ 80%  
-CSS         ██████████████ 70%  
-React       ███████████ 60%
+HTML        ████████████████ 95%  
+CSS         ██████████████ 75%  
+React       ███████████ 50%
 
 ---
 
