@@ -4,6 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Malware+Analysis;Full-Stack+Development;CTF+Player" />
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=GUnT0x9&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/GUnT0x9"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br>
 
 ### `Security Student & Software Developer`
