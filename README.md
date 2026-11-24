@@ -94,6 +94,13 @@
 `Reverse Engineering` • `Security` • `Development` • `CTF`
 
 <br>
+<a href="https://velog.io/@gunwoo2918">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://velo-card.profilecard.workers.dev/api?name=gunwoo2918&layout=thumbnail&theme=github_dark&count=3&width=580&scale=1.25&border_radius=19&tags=%ED%95%B4%ED%82%B9%2C%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%2C%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%2C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2CAI" />
+    <img src="https://velo-card.profilecard.workers.dev/api?name=gunwoo2918&layout=thumbnail&theme=github&count=3&width=580&scale=1.25&border_radius=19&tags=%ED%95%B4%ED%82%B9%2C%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%2C%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%2C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2CAI" alt="gunwoo2918 velog" />
+  </picture>
+</a>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:1F6FEB&height=120&section=footer"/>
 
